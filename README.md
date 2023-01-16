@@ -46,3 +46,9 @@ ID | Nome | Quantidade
 1 | Mouse | 3
 2 | Teclado | 5
 3 | Fone | 2
+
+### Teste comandos
+
+`function Teste(texto)`
+
+    `document.getElementById()`
