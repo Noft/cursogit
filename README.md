@@ -62,3 +62,5 @@ else:
 ### Teste emoji
 
 :smile: :sunglasses:
+
+[Site referencia para emojis](https://emojipedia.org/)
