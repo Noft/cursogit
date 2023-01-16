@@ -38,3 +38,11 @@ __*Negrito e Italico*__
 ### Teste link
 
 [Vá para o google](https://google.com)
+
+### Teste tabela
+
+ID | Nome | Quantidade
+---|---|---
+1 | Mouse | 3
+2 | Teclado | 5
+3 | Fone | 2
