@@ -3,7 +3,9 @@
 ## Teste Markdown
  
 **Negrito**
+
 *Italico*
+
 __*Negrito e Italico*__
 
 ### Lista numerica:
@@ -32,3 +34,7 @@ __*Negrito e Italico*__
     - [ ] Teste 4
 - [x] Teste 5
 - [x] Teste 6
+
+### Teste link
+
+[Vá para o google](https://google.com)
