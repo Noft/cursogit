@@ -26,9 +26,9 @@ __*Negrito e Italico*__
 
 ### Lista de tarefas:
 
--[] Teste 1
--[] Teste 2
-    -[] Teste 3
-    -[] Teste 4
--[x] Teste 5
--[x] Teste 6
+- [ ] Teste 1
+- [ ] Teste 2
+    - [ ] Teste 3
+    - [ ] Teste 4
+- [x] Teste 5
+- [x] Teste 6
