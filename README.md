@@ -8,6 +8,8 @@
 
 __*Negrito e Italico*__
 
+~~Riscado~~
+
 ### Lista numerica:
 
 1. Teste 1
@@ -64,3 +66,7 @@ else:
 :smile: :sunglasses:
 
 [Site referencia para emojis](https://emojipedia.org/)
+
+## Markdown
+
+[Gui de referencia do Markdown por Gustavo Guanabara ©](https://github.com/gustavoguanabara/git-github/tree/master/manuais-PDF)
