@@ -58,3 +58,7 @@ if num % 2 == 0:
 else:
     print(f'O valor {num} é ÍMPAR)
 ```
+
+### Teste emoji
+
+:smile: :sunglasses:
