@@ -67,6 +67,10 @@ else:
 
 [Site referencia para emojis](https://emojipedia.org/)
 
+### Teste imagem
+
+![Imagem de um pássaro](/projeto-site/imagem/passaro.png "Parece um papagaio")
+
 ## Markdown
 
 [Gui de referencia do Markdown por Gustavo Guanabara ©](https://github.com/gustavoguanabara/git-github/tree/master/manuais-PDF)
